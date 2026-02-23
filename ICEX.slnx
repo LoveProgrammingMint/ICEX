@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProcessManager/ProcessManager.vcxproj" Id="cc86d3c6-b0c4-4574-bce3-0789299d1e11" />
+  <Project Path="ProcessManagerSharp/ProcessManagerSharp.csproj" />
+  <Project Path="XShark/XShark.csproj" />
+</Solution>

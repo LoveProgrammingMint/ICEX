@@ -1,0 +1,42 @@
+LIBRARY ProcessManager
+EXPORTS
+    ; Process Enumeration
+    PmEnumProcesses
+    PmEnumProcessesWithCallback
+    PmGetProcessBasicInfo
+    PmGetProcessImagePath
+    PmGetProcessCommandLine
+
+    ; Process Control
+    PmCreateProcess
+    PmTerminateProcess
+    PmIsProcessRunning
+    PmSuspendProcess
+    PmResumeProcess
+    PmWaitForProcessExit
+
+    ; Process Information
+    PmGetProcessMemoryInfo
+    PmGetProcessTimes
+    PmGetProcessPriorityClass
+    PmSetProcessPriorityClass
+
+    ; Thread Management
+    PmEnumProcessThreads
+    PmGetThreadBasicInfo
+    PmSuspendThread
+    PmResumeThread
+    PmTerminateThread
+
+    ; Module Enumeration
+    PmEnumProcessModules
+    PmGetModuleInfo
+
+    ; Privilege Management
+    PmEnablePrivilege
+    PmDisablePrivilege
+    PmGetProcessPrivileges
+
+    ; Error Handling
+    PmGetLastErrorString
+    PmSetLastErrorString
