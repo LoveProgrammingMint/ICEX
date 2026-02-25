@@ -4,7 +4,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ProcessManager/ProcessManager.vcxproj" Id="cc86d3c6-b0c4-4574-bce3-0789299d1e11" />
-  <Project Path="ProcessManagerSharp/ProcessManagerSharp.csproj" />
-  <Project Path="XShark/XShark.csproj" />
+  <Project Path="D:/Desktop/X-Security/ICEX/ProcessManager/ProcessManager.vcxproj" Id="cc86d3c6-b0c4-4574-bce3-0789299d1e11" />
+  <Project Path="D:/Desktop/X-Security/ICEX/ProcessManagerSharp/ProcessManagerSharp.csproj" />
+  <Project Path="D:/Desktop/X-Security/ICEX/XdowsLocalEx/XdowsLocalEx.csproj" Id="1adccf14-1524-4c5d-8dc0-a1fe56945d84" />
+  <Project Path="D:/Desktop/X-Security/ICEX/XShark/XShark.csproj" />
 </Solution>

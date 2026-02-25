@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ProcessManagerSharp\ProcessManagerSharp.csproj" />
-    <ProjectReference Include="..\XdowsLocalEx\XdowsLocalEx.csproj" />
-  </ItemGroup>
-
 </Project>
