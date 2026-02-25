@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="processmanager.c">
+    <ClCompile Include="processmanager.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

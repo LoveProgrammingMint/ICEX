@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="processmanager.c" />
+    <ClCompile Include="processmanager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ProcessManager.def" />
